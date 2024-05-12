@@ -7,7 +7,7 @@ import {cn} from '@/lib/utils'
 import Phone from './Phone'
 
 const PHONES = [
-    '/snake-1.png',
+    '/frog-1.png',
     '/testimonials/2.jpg',
     '/testimonials/3.jpg',
     '/testimonials/4.jpg',
